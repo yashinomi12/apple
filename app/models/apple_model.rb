@@ -1,0 +1,2 @@
+class AppleModel < ApplicationRecord
+end

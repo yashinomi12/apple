@@ -1,0 +1,15 @@
+current directory: /Users/kaori/Desktop/programing/other/apple/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.3.2/ext/bootsnap
+/Users/kaori/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20181201-52188-1p8j2u5.rb extconf.rb
+creating Makefile
+
+current directory: /Users/kaori/Desktop/programing/other/apple/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/kaori/Desktop/programing/other/apple/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/kaori/Desktop/programing/other/apple/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20181201-52188-l05sij/bootsnap
